@@ -50,7 +50,7 @@ User Input (input())
 
 Basic Logic Building
 
-📊 Grading System
+# Grading System
 
 Average Marks	Grade
 
@@ -70,7 +70,7 @@ Below 35	Fail
 
 3. Exit
 
-#Learning Outcome
+# Learning Outcome
 
 This project helps beginners to:
 
